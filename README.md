@@ -1,4 +1,4 @@
-##DESIGN TECHNOLOGIES FRONTEND CHALLENGE
+DESIGN TECHNOLOGIES FRONTEND CHALLENGE
 
 #### Prerequisites
 - The task must be written in react
